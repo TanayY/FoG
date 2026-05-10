@@ -91,5 +91,6 @@ Results are aggregated in:
 - DeFOG data is resampled from 100Hz to 64Hz to match DAPHNET.
 - FoG labels are unified across datasets before training.
 
+## Contact
 
 Use this repository as a reference for FoG detection research and thesis work in Parkinson’s disease assistive sensing.
